@@ -44877,7 +44877,7 @@ F.pc.prototype={
 b3(){return new F.D1(C.o)}}
 F.D1.prototype={
 X(a,b){var s=null
-return new M.q5(T.XX(new T.vi(C.X,C.my,C.mz,C.dZ,s,C.fc,s,H.a([L.a2v("NefT Labs",K.dm(b).R.a),L.a2v("comming soon..",K.dm(b).R.d)],t.U),s),s,s),s)}}
+return new M.q5(T.XX(new T.vi(C.X,C.my,C.mz,C.dZ,s,C.fc,s,H.a([L.a2v("NefT Labs",K.dm(b).R.a),L.a2v("NFT collections comming soon..",K.dm(b).R.e)],t.U),s),s,s),s)}}
 E.h3.prototype={
 gl(a){return this.b},
 i(a,b){if(b>=this.b)throw H.b(P.b9(b,this,null,null,null))
