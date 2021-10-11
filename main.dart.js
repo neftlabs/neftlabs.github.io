@@ -49111,7 +49111,7 @@ F.qB.prototype={
 aT(){return new F.F6(C.p)}}
 F.F6.prototype={
 O(a,b){var s,r,q,p=null,o=U.a73(p,p,p,p,p,p,p,p,p,p,p,C.k,p,p,p,p,p,p,p),n=A.tb(p,p,C.r,p,p,p,p,p,p,p,p,17*F.a6a(b),p,C.bw,p,p,!0,p,p,p,p,p,p,p,p),m=t.w,l=t.F
-n=H.a([new T.fy(C.y4,new U.BM(F.alb(),p,o,C.D,p,!1,T.a2s(p,p,C.bh,!0,p,Q.V5(H.a([],t.sU),n,"NFT Collectibles on Solana"),C.Y,p,p,1,C.aA),p),p),T.kQ(p,p,b.a4(m).f.a.a/8)],l)
+n=H.a([new T.fy(C.y4,new U.BM(F.alb(),p,o,C.D,p,!1,T.a2s(p,p,C.bh,!0,p,Q.V5(H.a([],t.sU),n,"NFT Collectibles on Solana"),C.Y,p,p,1,C.aA),p),p),T.kQ(p,p,b.a4(m).f.a.a/30)],l)
 o=b.a4(m).f
 s=b.a4(m).f
 o=M.xa(p,T.kQ(new U.pT(M.agy(p,p,new L.oO("lib/assets/logoPix.png",p,p)),p),p,p),p,p,o.a.b/2,p,p,s.a.a)
