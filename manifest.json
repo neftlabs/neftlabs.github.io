@@ -1,6 +1,6 @@
 {
-    "name": "neftlabs",
-    "short_name": "neftlabs",
+    "name": "neftlabs_web_templete",
+    "short_name": "neftlabs_web_templete",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
