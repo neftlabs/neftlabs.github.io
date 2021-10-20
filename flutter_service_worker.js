@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "ef572118c7d6bfb7a06754f8d6d269f1",
-"/": "ef572118c7d6bfb7a06754f8d6d269f1",
+"index.html": "79d08e8bb2147d770be8c227f1d4b907",
+"/": "79d08e8bb2147d770be8c227f1d4b907",
 "assets/packages/flutter_icons/fonts/FontAwesome.ttf": "b06871f281fee6b241d60582ae9369b9",
 "assets/packages/flutter_icons/fonts/SimpleLineIcons.ttf": "d2285965fe34b05465047401b8595dd0",
 "assets/packages/flutter_icons/fonts/FontAwesome5_Solid.ttf": "b70cea0339374107969eb53e5b1f603f",
@@ -25,7 +25,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/FontManifest.json": "7aaf3996738086bbd796613e14ef9e45",
 "assets/assets/github.png": "100ecb4618c10d74af9cecd6910dab3c",
-"assets/assets/CypherPirates.png": "d1db2f8afa3a212e05469b779c300836",
+"assets/assets/CypherPirates.png": "a0a8a3923e3460a01d38db35c14a46ed",
 "assets/assets/logo.png": "27fc136b23d377c88639168f505c8944",
 "assets/assets/twitter.png": "21dbb483fb5bb82cb025c5470d725b4d",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
