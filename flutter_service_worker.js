@@ -4,8 +4,12 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "favicon.png": "d0c60bc9a00f5d283c44c1cac61b3fab",
-"index.html": "52c72b846b2e283bbbdc3aa295d76ec1",
-"/": "52c72b846b2e283bbbdc3aa295d76ec1",
+"index.html": "3c81c72aefc518c5d8f473240461a4f7",
+"/": "3c81c72aefc518c5d8f473240461a4f7",
+"canvaskit/canvaskit.wasm": "b179ba02b7a9f61ebc108f82c5a1ecdb",
+"canvaskit/profiling/canvaskit.wasm": "6d1b0fc1ec88c3110db88caa3393c580",
+"canvaskit/profiling/canvaskit.js": "3783918f48ef691e230156c251169480",
+"canvaskit/canvaskit.js": "62b9906717d7215a6ff4cc24efbd1b5c",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "5178af1d278432bec8fc830d50996d6f",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b37ae0f14cbc958316fac4635383b6e8",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "aa1ec80f1b30a51d64c72f669c1326a7",
@@ -32,15 +36,15 @@ const RESOURCES = {
 "assets/assets/logo.png": "27fc136b23d377c88639168f505c8944",
 "assets/assets/twitter.png": "21dbb483fb5bb82cb025c5470d725b4d",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "3c299533cf59ca79a91076093c5327d2",
+"assets/NOTICES": "0945204afc35ae52941273de6ab258f8",
 "assets/AssetManifest.json": "cf35a67348545f7414090bd1419ddeb4",
 "icons/Icon-maskable-512.png": "71c149f44831eff3acd9c36e18118873",
 "icons/Icon-512.png": "26b7d1952342a69156710ec266c5ef66",
 "icons/Icon-maskable-192.png": "7311b1cc1531b3f2c3722fbed7d2545f",
 "icons/Icon-192.png": "c462ef51214042a618ec9367db9ea9df",
-"version.json": "9b0a8d232e4709ba21c4d8467cdda048",
+"version.json": "2da0c9ef7ea32c7db1eb750cd058506c",
 "manifest.json": "11fef3fa5ce10d80f2c1937e432b0108",
-"main.dart.js": "c08b53f5c5cb586eaab662a63a007843"
+"main.dart.js": "e89d4abeb78270c6bc229eecae390ecf"
 };
 
 // The application shell files that are downloaded before a service worker can
